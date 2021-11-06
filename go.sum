@@ -1,0 +1,4 @@
+github.com/klauspost/compress v1.13.6 h1:P76CopJELS0TiO2mebmnzgWaajssP/EszplttgQxcgc=
+github.com/klauspost/compress v1.13.6/go.mod h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
+github.com/klauspost/pgzip v1.2.6-0.20201105112430-e899416eed9c h1:j0wAUo1VXVw9a2TZz2P0zbB4QiXUzOMJaj9mvCJK6FM=
+github.com/klauspost/pgzip v1.2.6-0.20201105112430-e899416eed9c/go.mod h1:Ch1tH69qFZu15pkjo5kYi6mth2Zzwzt50oCQKQE9RUs=
